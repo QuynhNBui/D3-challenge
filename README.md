@@ -14,7 +14,6 @@ The data set is based on 2014 ACS 1-year estimates: [https://factfinder.census.g
 D3 techniques was used to generate a scatter plot that represents each state with circle elements. This scatter plot include multiple demographics (In Poverty, Income and Age) and multiple risk factors (Lacks of Healthcare, Obesity and Smokes). 
 
 To understand the correlation between each demographic and risk factor, click on the x-label and y-label. To get information for each state, click on the circle element, information will be shown in the tooltip element.
-[![video](http://img.youtube.com/vi/UyQBJ43h1l8/0.jpg)](http://www.youtube.com/watch?v=UyQBJ43h1l8 "")
 
 ![assessment](D3_data_journalism/Images/assessment.png)
 
